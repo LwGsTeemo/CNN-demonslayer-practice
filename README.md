@@ -5,8 +5,8 @@
 #
 #4charactor.py為4位主角分類
 #
-#13chractor-0.069.h5為13位主角分類的模型
+#13位角色圖片請前往https://drive.google.com/drive/folders/11L6Bx2jQdpLIoIQUMz-mpmX813jajXIV?usp=sharing
 #
-#4chractor-0.77.h5為4位主角分類的模型
+#圖片來源皆為google下載,請勿用於商業用途
 #
 #------------------------------------------------B0843020宥俞
